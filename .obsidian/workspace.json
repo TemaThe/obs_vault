@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "eec5bbbdcdaaffb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e523ca1f911c67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42095f2a930da33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algs/Binary Numeral System Math/1. Numeral Systems Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e304c83383dddf1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab2938faf922eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a801b50df1fc67de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f1ecd0b977fac52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20cdf54974f1d7e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "282adbd747f43219",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb7c2cd915586d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b992c426d84442",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algs/Binary Numeral System Math/1. Numeral Systems Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "566e4bf6668da49d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algs/Binary Numeral System Math/1. Numeral Systems Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1af8fd528d41276d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a693890190275fe3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algs/Binary Numeral System Math/1. Numeral Systems Basics.md"
+              }
+            }
+          },
+          {
+            "id": "f683a073d18fcb23",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a801b50df1fc67de",
+  "lastOpenFiles": [
+    "Kanban/Untitled Kanban.md",
+    "Math Gists.md"
+  ]
+}
